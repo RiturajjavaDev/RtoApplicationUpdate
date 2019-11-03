@@ -21,7 +21,6 @@
 		<spring-boot-admin.version>2.1.5</spring-boot-admin.version>
 		<start-class>com.transport.rto.RtoApplication</start-class>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -144,5 +143,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
